@@ -1,0 +1,16 @@
+#div_centrado{
+    height: auto;
+    width: 400px;
+    margin: auto;
+
+}
+#contenedor_users{
+    background-color: bisque;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    margin: auto;
+    width: 300px;
+    justify-content: space-around;
+    align-items: center;
+}

@@ -25,12 +25,6 @@
     @endforeach
 </div>
 
-
-
-
-
-
-
 <div id="div_centrado">
     <form action="{{route('create_user')}}" method="">
     <div class="mb-3">

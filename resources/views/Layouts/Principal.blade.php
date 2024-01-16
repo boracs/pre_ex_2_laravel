@@ -20,13 +20,13 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
+          <a class="nav-link active" aria-current="page" href="{{route('show_users')}}">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Usuarios_addres</a>
+          <a class="nav-link" href="{{route('show_asign_a_u')}}">Usuarios_addres</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Address</a>
+          <a class="nav-link" href="{{route('show_create_address')}}">Address</a>
         </li>
         <li class="nav-item">
           <a class="nav-link disabled" aria-disabled="true">Posts</a>

@@ -14,3 +14,12 @@
     justify-content: space-around;
     align-items: center;
 }
+
+#cont_rel_a_u{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    background-color: azure;
+    width: 500px;
+    margin: auto;
+}
